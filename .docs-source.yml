@@ -1,0 +1,38 @@
+# Source metadata consumed by MSP Portal sync and build scripts.
+# Customize these values for each repository created from this template.
+
+# Stable slug used by the portal for URLs and source identity.
+id: azure-knowledge
+
+# Reader-facing title shown in navigation and source listings.
+name: Azure Knowledge
+
+# Grouping label used by the portal when organizing sources.
+category: Learning
+
+# Short summary for source cards, listings, and search context.
+description: >
+  Personal knowledge base for learning, researching, and organizing Azure cloud
+  services: step-by-step guides, visual diagrams, architecture patterns, and a
+  system design glossary.
+
+# Relative path to the documentation root inside this repository.
+docs_path: docs
+
+# Optional discovery labels. Omit `tags` if you do not need them; the portal treats missing tags as an empty list.
+# Keep them short and lowercase when possible.
+tags:
+  - azure
+  - cloud
+  - architecture
+  - system-design
+  - learning
+
+# Section order used by the portal when building navigation.
+# Keep only folders that actually exist in the repository.
+navigation:
+  - concepts
+  - architecture
+  - guides
+  - services
+  - glossary
