@@ -3,6 +3,8 @@
 Personal learning, research, and reference repository for Microsoft Azure cloud services,
 architecture patterns, and system design — organized as a documentation source for MSP Portal.
 
+**GitHub:** https://github.com/MSP-learn/azure-knowledge
+
 ## What this is
 
 A structured collection of everything I'm learning about Azure:
